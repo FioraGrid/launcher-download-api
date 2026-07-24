@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "build": 1,
+  "download_url": "https://raw.githubusercontent.com/FioraGrid/launcher-download-api/main/OrionLauncher.exe",
+  "sha256": "EAD13F6E7A103F8C1D7A8C80AF3A727D2342ECFFFB3EAE840061AABE966775F5",
+  "size": 3294484,
+  "changelog": "Initial release of Orion Launcher."
+}
