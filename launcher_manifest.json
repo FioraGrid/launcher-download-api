@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0",
-  "build": 1,
+  "version": "1.0.1",
+  "build": 2,
   "download_url": "https://raw.githubusercontent.com/FioraGrid/launcher-download-api/main/OrionLauncher.exe",
-  "sha256": "EAD13F6E7A103F8C1D7A8C80AF3A727D2342ECFFFB3EAE840061AABE966775F5",
-  "size": 3294484,
-  "changelog": "Initial release of Orion Launcher."
+  "sha256": "2384EAE0AE5B7D08093968A87536DFE96F1F72D85D89004C12E62C28D7FBFDA2",
+  "size": 3303957,
+  "changelog": "Launcher v1.0.1 update: Fast startup update checks, game exit auto-detection, custom game directory picker, system RAM slider, sleek modern controls, and right-click context menu disabled."
 }
