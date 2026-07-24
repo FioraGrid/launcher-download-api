@@ -1,8 +1,8 @@
 {
-  "version": "1.1.6",
-  "build": 8,
+  "version": "1.1.7",
+  "build": 10,
   "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
-  "sha256": "0B5631C01C6F5D4E6A7159146C104CB500605777F1A701C7E4E295FBC974EBD3",
+  "sha256": "CA9E2260CA5018DD65A9D2B025CD445236B73EB13A8C961D5A278134F504ABE6",
   "dependencies": [
     {
       "name": "fabric-api.jar",
@@ -10,5 +10,5 @@
       "version": "0.141.1+1.21.11"
     }
   ],
-  "changelog": "OrionClient v1.1.6 (Build 8) update: Production skin system refactoring with raw PNG binary streaming, persistent UUID file storage, X-Skin-Model HTTP headers, and negative result caching."
+  "changelog": "OrionClient v1.1.7 (Build 10): Added Watermark HUD module — displays the Orion logo and client name in the bottom-right corner of the screen during gameplay, inventory screens, and menus. Fully draggable and configurable via the HUD Editor."
 }
