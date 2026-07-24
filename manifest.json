@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
-  "build": 6,
+  "version": "1.1.6",
+  "build": 7,
   "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
-  "sha256": "53140CD0BB36F67F4C74727CF7C0AF6F4D241557EF65EDF7879556A9B7FB660B",
+  "sha256": "1B9567B0E86722DDFBBC188A5F724883130BEA96933C62180E4F62B7ADD0D37A",
   "dependencies": [
     {
       "name": "fabric-api.jar",
@@ -10,5 +10,5 @@
       "version": "0.141.1+1.21.11"
     }
   ],
-  "changelog": "OrionClient v1.1.5 release with OpenGL skin texture upload fix, 64x32 legacy skin remapping, and Steve/Alex fallback engine."
+  "changelog": "OrionClient v1.1.6 release with complete vanilla legacy skin remapping engine, Slim/Wide model preservation, and Steve/Alex fallback engine."
 }
