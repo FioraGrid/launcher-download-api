@@ -1,8 +1,8 @@
 {
   "version": "1.1.6",
-  "build": 7,
+  "build": 8,
   "downloadUrl": "https://raw.githubusercontent.com/FioraGrid/orion-download-api/main/OrionClient.jar",
-  "sha256": "1B9567B0E86722DDFBBC188A5F724883130BEA96933C62180E4F62B7ADD0D37A",
+  "sha256": "0B5631C01C6F5D4E6A7159146C104CB500605777F1A701C7E4E295FBC974EBD3",
   "dependencies": [
     {
       "name": "fabric-api.jar",
@@ -10,5 +10,5 @@
       "version": "0.141.1+1.21.11"
     }
   ],
-  "changelog": "OrionClient v1.1.6 release with complete vanilla legacy skin remapping engine, Slim/Wide model preservation, and Steve/Alex fallback engine."
+  "changelog": "OrionClient v1.1.6 (Build 8) update: Production skin system refactoring with raw PNG binary streaming, persistent UUID file storage, X-Skin-Model HTTP headers, and negative result caching."
 }
