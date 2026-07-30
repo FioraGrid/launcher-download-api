@@ -1,8 +1,8 @@
 {
-  "version": "0.1.2",
-  "build": 3,
+  "version": "0.1.3",
+  "build": 4,
   "download_url": "https://raw.githubusercontent.com/FioraGrid/launcher-download-api/main/OrionLauncher.exe",
-  "sha256": "8F1B9911BD08536932C8CD1743BD085EFD6B4301A5398FA42C1A32C3EC9D125F",
-  "size": 6080065,
-  "changelog": "Orion Launcher v0.1.2 Update: Performance optimizations, 4 modular random launch animations, and auto-updater reliability improvements."
+  "sha256": "ADFF7018780433CFA20B8200D21961B60DD61943B85D6301E34D7AB5D065CE0A",
+  "size": 6081619,
+  "changelog": "Orion Launcher v0.1.3 Update: Fast launch verification optimizations, 4 modular random launch animations, manual update checker, and stability fixes."
 }
