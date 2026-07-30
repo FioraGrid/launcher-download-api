@@ -1,8 +1,8 @@
 {
-  "version": "0.1.4",
-  "build": 5,
+  "version": "0.1.5",
+  "build": 6,
   "download_url": "https://raw.githubusercontent.com/FioraGrid/launcher-download-api/main/OrionLauncher.exe",
-  "sha256": "036678A8D36C15E2A134CDF98188507B4BBE0F9BBAD72DFE9AC55CAA541654F5",
-  "size": 6081977,
-  "changelog": "Orion Launcher v0.1.4 Update: Silent background update installation, enhanced version verification, and startup improvements."
+  "sha256": "98F1A5B72BC94A71284E0C633AE1EAFF283D8E36B92E574D822C23DBC6802F18",
+  "size": 6104446,
+  "changelog": "Orion Launcher v0.1.5 Update: Custom Discord App ID (1521776638403285052), orion_logo asset support, and RPC toggle settings."
 }
