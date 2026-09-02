@@ -1,8 +1,8 @@
 {
-  "version": "0.1.6",
-  "build": 7,
+  "version": "0.1.7",
+  "build": 8,
   "download_url": "https://raw.githubusercontent.com/FioraGrid/launcher-download-api/main/OrionLauncher.exe",
-  "sha256": "4B0D0BD7C992B645214EFE82CE3D630B6F8C223FE1C54AD9587BF162A3ACA1ED",
-  "size": 5998693,
-  "changelog": "Orion Launcher v0.1.6 Release: Cleaned up developer mode, removed skin customizer client/launcher hooks, fixed console reopening loop, added console log pause/clear triggers on exit/launch, and introduced local TCP Discord RPC sync bridge."
+  "sha256": "E88EEAA8FDDCFF682C3DF6AF597EB0D95E03D5F1FF2B2948E6639FBC5E50CDD2",
+  "size": 5998208,
+  "changelog": "Orion Launcher v0.1.7 (Build 8): Fixed Knot game provider startup error by adding the Minecraft client JAR to the JVM classpath."
 }
